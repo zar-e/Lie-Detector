@@ -12,3 +12,10 @@ Dependencies:
 CV2
 Haar Cascades from opencvlibrary
 Numpy
+
+Brought to you by The Islanders:
+
+Avlonitis Ektor
+Gaitanis Pablos
+Lazarevic Milos
+Vavakas Alexandros
